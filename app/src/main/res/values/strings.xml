@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My OSAGO</string>
+    <string name="text_main_auto">Ваш список полисов</string>
+    <string name="text_main_health">Ваш список документов</string>
+    <string name="text_add_OSAGO">Добавить новый полис ОСАГО</string>
+    <string name="text_edit_name_document">Введите название документа</string>
+    <string name="text_edit_car_brand">Введите марку автомобиля</string>
+    <string name="text_edit_car_model">Введите модель автомобиля</string>
+    <string name="text_edit_car_number">Введите гос номер автомобиля</string>
+    <string name="text_edit_date_end_OSAGO">Введите дату окончания полиса</string>
+    <string name="text_button_search_PDF">документы</string>
+    <string name="text_button_search_IMG">галерея</string>
+    <string name="text_button_add">Добавить полис</string>
+    <string name="text_button_add_document">Добавить документ</string>
+    <string name="text_button_auto">Авто</string>
+    <string name="text_button_health">Здоровье</string>
+    <string name="text_button_add_doc">Добавить новый документ</string>
+    <string name="text_button_document">Документы</string>
+</resources>
